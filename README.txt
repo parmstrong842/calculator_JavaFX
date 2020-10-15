@@ -1,4 +1,4 @@
-![example](1.png)
+![example](example.jpg)
 
 Features:
 1. addition, subtraction, muliplication, division
