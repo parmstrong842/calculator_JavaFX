@@ -1,4 +1,4 @@
-![ScreenShot](https://github.com/parmstrong842/calculator_JavaFX/blob/main/example.jpg)
+![ScreenShot](example.jpg)
 Features:
 1. addition, subtraction, muliplication, division
 2. support for decimal numbers
