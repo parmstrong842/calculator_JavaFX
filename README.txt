@@ -1,4 +1,4 @@
-![example](example.jpg)
+![example](/blob/main/example.jpg)
 
 Features:
 1. addition, subtraction, muliplication, division
